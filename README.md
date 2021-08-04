@@ -1,4 +1,6 @@
 # <span style="color:red">Graduate Rotational Internship Program (GRIP): The Sparks Foundation</span>
+![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+
 
 # Data Science & Business Analytics Internship
 ## Task 1
