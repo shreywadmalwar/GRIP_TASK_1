@@ -1,4 +1,4 @@
- <span style="color:'red'">Graduate Rotational Internship Program (GRIP): The Sparks Foundation</span>
+# <span style="color:red">Graduate Rotational Internship Program (GRIP): The Sparks Foundation</span>
 
 # Data Science & Business Analytics Internship
 ## Task 1
