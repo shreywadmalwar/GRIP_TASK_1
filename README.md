@@ -21,16 +21,22 @@
 ## Steps to solve the problem are as follows :-
 ## Step - I
 ### <span style="color:red">IMPORTING ALL THE REQUIRED PACKAGES</span>
+
 ## Step - II
 ### <span style="color:red">IMPORTING THE GIVEN DATA SET</span>
+
 ## Step - III
 ### <span style='color:red'>VISUALIZE AND ANALYSE THE DATASET</span>
+
 ## Step - IV
 ### <span style='color:red'>PREPARING OUR DATA</span>
+
 ## Step - V
 ### <span style="color:red">SPLITTING THE DATA FOR TESTING</SPAN>
+
 ## STEP - VI
 ### <span style='color:red'>PLOTTING REGRESSION LINE</span>
+
 ## Step - VII
 ### <span style='color:red'>MAKING THE PREDICTIONS</span>
 ## Step - VIII
