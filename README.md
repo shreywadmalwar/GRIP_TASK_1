@@ -1,1 +1,0 @@
-# GRIP_TASK_1
